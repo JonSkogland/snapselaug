@@ -1,5 +1,5 @@
 # Så vi igang!
-
+print("Hello world!")
 # Funktion til oprettelse af snaps og snapseejer
 
 # Funktion til bedømmelse af snaps
